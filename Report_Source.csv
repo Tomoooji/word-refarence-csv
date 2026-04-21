@@ -1,7 +1,5 @@
 Tag,SourceType,Author,Editor,Title,Year,Month,Day,__Book__,BookTitle,Pablisher,Edition,Pages,__Journal__,JournalNamee,Volume,Issue,Pages,__Website__,InternalSiteTitle,ProductionCompany,URL,YearAccessed,MonthAccessed,DayAccessed
-フランキア総説,JournalArticle,九町健一,,共生窒素固定放線菌フランキア,2013,,,,,,,,,生物工学,91,,24-27,,,,,,,
-根粒菌以外,BookSection,横山正,,8.3.a. 窒素固定菌,2009,,,,根の事典(新装版),朝倉書店,,304-309,,,,,,,,,,,,
-根粒菌,BookSection,横山正,,8.3.b. 根粒菌,2009,,,,根の事典(新装版),,,309-312,,,,,,,,,,,,
-根のきほん1,BookSection,山中高史,根研究学会,根のきほん,2024,10,17,,図解でよくわかる根のきほん,誠文堂新光社,,32-33,,,,,,,,,,,,
-根のきほん2,BookSection,,根研究学会,根のきほん,2024,10,17,,図解でよくわかる根のきほん,誠文堂新光社,,59,,,,,,,,,,,,
-豆類の百科事典,BookSection,磯部勝孝,"国分牧衛,石本政男,村本光二,加藤淳,谷口亜樹子","根粒菌,菌根菌との共生機構",2024,5,1,,豆類の百科事典,朝倉書店,,26-27,,,,,,,,,,,,
+test1,JournalArticle,Tomoji Kanae,,Test Journal Article,2026,04,21,,,,,,,BioScience,3,380,24-48,,,,,,,
+test2,Book,Tomoji Kanae,,Test Book,2026,04,21,,,K.G.Univ,3,380-24048,,,,,,,,,,,,
+test3,BookSection,Tomoji Kanae,School of Bioscience,Test Book Section,2026,04,21,,Test Book Title,K.G.Univ,3,380-24048,,,,,,,,,,,,
+test4,InternetSite,Tomoji Kanae,,Test WEBsite,2026,04,21,,,,,,,,,,,,Test WEBsite Title,K.G.Univ,https://github.com/Tomoooji,2026,04,21
