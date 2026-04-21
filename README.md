@@ -63,4 +63,8 @@ word-refarence-csv/
     - YearAccessed アクセス年  
     - MonthAccessed アクセス月  
     - Day Accessed アクセス日  
-    
+
+---
+作成者:金栄智治(38024048)  
+最終更新日:2026/04/21  
+エラーとかでたら教えてください(o_ _)o  
