@@ -1,0 +1,5 @@
+Tag,SourceType,Author,Editor,Title,Year,Month,Day,__Book__,BookTitle,Pablisher,Edition,Pages,__Journal__,JournalNamee,Volume,Issue,Pages,__Website__,InternalSiteTitle,ProductionCompany,URL,YearAccessed,MonthAccessed,DayAccessed
+test1,JournalArticle,Tomoji Kanae,,Test Journal Article,2026,04,21,,,,,,,BioScience,3,380,24-48,,,,,,,
+test2,Book,Tomoji Kanae,,Test Book,2026,04,21,,,K.G.Univ,3,380-24048,,,,,,,,,,,,
+test3,BookSection,Tomoji Kanae,School of Bioscience,Test Book Section,2026,04,21,,Test Book Title,K.G.Univ,3,380-24048,,,,,,,,,,,,
+test4,InternetSite,Tomoji Kanae,,Test WEBsite,2026,04,21,,,,,,,,,,,,Test WEBsite Title,K.G.Univ,https://github.com/Tomoooji,2026,04,21

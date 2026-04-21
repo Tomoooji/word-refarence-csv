@@ -1,7 +1,7 @@
 import os,csv
 
-csvFileName = "Report_Source.csv"
-xmlFileName = "Source_Report.xml"
+csvFileName = "Report_Data.csv"
+xmlFileName = "Report_Source.xml"
 
 areas = {
     "Book":(10,13),
