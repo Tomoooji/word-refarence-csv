@@ -37,6 +37,7 @@ word-refarence-csv/
 各資料の情報が横列に並んでいて、列を増やす/減らすことで文献を増やす/減らすことが可能です。
 
 各情報の内容は以下の表と対応しています。  
+
     全体用  
     - Tag タグ(任意の文字列)  
     - SourceType 資料タイプ(Book/BookSection/JounalArticle/InternetSite)  
