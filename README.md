@@ -11,7 +11,7 @@ word-refarence-csv/
 └─ Report_Source.csv  - 参考資料管理用csvファイル
 ```
 
-他にも.gitignoreとかLICENCEとかは気にしなくてよいです。
+他に.gitignoreとかLICENCEとかは気にしなくてよいです。
 
 ## 使い方
 
@@ -38,29 +38,29 @@ word-refarence-csv/
 
 各情報の内容は以下の表と対応しています。
     全体用
-    - Tag
-    - SourceType
-    - Author
-    - Editor
-    - Title
-    - Year
-    - Month
-    - Day
-    Book用
-    - BookTitle
-    - Publisher
-    - Edition
-    - Pages
-    Journal用
-    - JournalName
-    - Volume
-    - Issue
-    - Pages
-    Website用
-    - InternetSiteTitle
-    - ProductionCompany
-    - URL
-    - YearAccessed
-    - MonthAccessed
-    - Day Accessed
+    - Tag タグ(任意の文字列)  
+    - SourceType 資料タイプ(Book/BookSection/JounalArticle/InternetSite)  
+    - Author 著者名  
+    - Editor 編集者名(BookSectionのみ)  
+    - Title タイトル  
+    - Year 年  
+    - Month 月(なくても可)  
+    - Day 日(なくても可)  
+    Book用 (__Book__のところは空欄)  
+    - BookTitle 書籍のタイトル(BookSectionのみ)  
+    - Publisher 出版者  
+    - Edition 版  
+    - Pages ページ  
+    Journal用 (__Journal__は空欄)  
+    - JournalName 雑誌名  
+    - Volume 巻  
+    - Issue 号  
+    - Pages ページ  
+    Website用　(__Website__は空欄)  
+    - InternetSiteTitle サイト名  
+    - ProductionCompany 作成会社  
+    - URL url  
+    - YearAccessed アクセス年  
+    - MonthAccessed アクセス月  
+    - Day Accessed アクセス日  
     
