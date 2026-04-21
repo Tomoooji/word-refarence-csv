@@ -11,7 +11,7 @@ word-refarence-csv/
 └─ Report_Source.csv  - 参考資料管理用csvファイル
 ```
 
-他に.gitignoreとかLICENCEとかは気にしなくてよいです。
+他の.gitignoreとかLICENCEとかは気にしなくてよいです。
 
 ## 使い方
 
