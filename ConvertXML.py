@@ -1,7 +1,7 @@
 import os,csv
 
-csvFileName = r"Report_Source.csv"
-xmlFileName = r"Source_Report.xml"
+csvFileName = "Report_Source.csv"
+xmlFileName = "Source_Report.xml"
 
 areas = {
     "Book":(10,13),
@@ -26,12 +26,12 @@ with open(os.path.join(os.getcwd(),xmlFileName),"w",encoding='utf-8') as result:
         if source[2]:
             print(f'<b:Author>', end="", file=result)
             print(f'<b:Author><b:NameList><b:Person><b:Last>{source[2]}</b:Last></b:Person></b:NameList></b:Author>', end="", file=result)
-            if source[3]:print(f'<b:Editor><b:NameList><b:Person><b:Last>{source[2]}</b:Last></b:Person></b:NameList></b:Editor>', end="", file=result)
+            if source[3]:print(f'<b:Editor><b:NameList><b:Person><b:Last>{source[3]}</b:Last></b:Person></b:NameList></b:Editor>', end="", file=result)
             print(f'</b:Author>', end="", file=result)
-        print(f'<b:Title>{source[3]}</b:Title>', end="", file=result)
-        print(f'<b:Year>{source[4]}</b:Year>', end="", file=result)
-        if source[5]:print(f'<b:Month>{source[5]}</b:Month>', end="", file=result)
-        if source[6]:print(f'<b:Day>{source[6]}</b:Day>', end="", file=result)
+        print(f'<b:Title>{source[4]}</b:Title>', end="", file=result)
+        print(f'<b:Year>{source[5]}</b:Year>', end="", file=result)
+        if source[5]:print(f'<b:Month>{source[6]}</b:Month>', end="", file=result)
+        if source[6]:print(f'<b:Day>{source[7]}</b:Day>', end="", file=result)
         
         for idx in range(*areas[source[site_type]]):
             print(f'<b:{csv_data[0][idx]}>{source[idx]}</b:{csv_data[0][idx]}>', end="", file=result)
