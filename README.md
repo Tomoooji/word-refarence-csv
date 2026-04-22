@@ -65,6 +65,99 @@ word-refarence-csv/
     - MonthAccessed アクセス月  
     - Day Accessed アクセス日  
 
+## Product
+```xml
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" SelectedStyle="">
+    <b:Source>
+        <b:Tag>test1</b:Tag>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Tomoji Kanae</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Title>Test Journal Article</b:Title>
+        <b:Year>2026</b:Year>
+        <b:Month>04</b:Month>
+        <b:Day>21</b:Day>
+        <b:JournalNamee>BioScience</b:JournalNamee>
+        <b:Volume>3</b:Volume>
+        <b:Issue>380</b:Issue>
+        <b:Pages>24-48</b:Pages>
+    </b:Source>
+    <b:Source>
+        <b:Tag>test2</b:Tag>
+        <b:SourceType>Book</b:SourceType>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Tomoji Kanae</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Title>Test Book</b:Title>
+        <b:Year>2026</b:Year>
+        <b:Month>04</b:Month>
+        <b:Day>21</b:Day>
+        <b:Pablisher>K.G.Univ</b:Pablisher>
+        <b:Edition>3</b:Edition>
+        <b:Pages>380-24048</b:Pages>
+    </b:Source>
+    <b:Source>
+        <b:Tag>test3</b:Tag>
+        <b:SourceType>BookSection</b:SourceType>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Tomoji Kanae</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+            <b:Editor>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>School of Bioscience</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Editor>
+        </b:Author>
+        <b:Title>Test Book Section</b:Title>
+        <b:Year>2026</b:Year>
+        <b:Month>04</b:Month>
+        <b:Day>21</b:Day>
+        <b:BookTitle>Test Book Title</b:BookTitle>
+        <b:Pablisher>K.G.Univ</b:Pablisher>
+        <b:Edition>3</b:Edition>
+        <b:Pages>380-24048</b:Pages>
+    </b:Source>
+    <b:Source>
+        <b:Tag>test4</b:Tag>
+        <b:SourceType>InternetSite</b:SourceType>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Tomoji Kanae</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Title>Test WEBsite</b:Title>
+        <b:Year>2026</b:Year>
+        <b:Month>04</b:Month>
+        <b:Day>21</b:Day>
+    </b:Source>
+</b:Sources>
+```
+
 ---
 作成者:金栄智治(38024048)  
 最終更新日:2026/04/21  
