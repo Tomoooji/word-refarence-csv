@@ -6,7 +6,7 @@ xmlFileName = "Report_Source.xml"
 areas = {
     "Book":(10,13),
     "BookSection":(9,13),
-    "JournalArticle":(13,18),
+    "JournalArticle":(14,18),
     "InternetSite":(29,24)
     }
 
