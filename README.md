@@ -63,7 +63,7 @@ word-refarence-csv/
     - URL url  
     - YearAccessed アクセス年  
     - MonthAccessed アクセス月  
-    - Day Accessed アクセス日  
+    - DayAccessed アクセス日  
 
 
 ## `Report_Source.xml`の中身(改行・インデントあり)
