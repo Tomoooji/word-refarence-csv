@@ -8,7 +8,7 @@ CSVファイルからMS Wordの参考文献を作成するプログラム
 word-refarence-csv/
 ├─ README.md          - プログラムの説明(このファイル)
 ├─ ConvertXML.py      - Pythonプログラム
-└─ Report_Source.csv  - 参考資料管理用csvファイル
+└─ Report_Data.csv  - 参考資料管理用csvファイル
 ```
 
 他の.gitignoreとかLICENCEとかは気にしなくてよいです。
